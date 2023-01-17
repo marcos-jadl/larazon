@@ -34,7 +34,7 @@ define('DB_CHARSET', 'utf8');
 define('DB_COLLATE', '');
 
 /** en caso de que haya un problema con la cuenta principal, a continuación se proporciona una cuenta de reserva  */
-/** marcos-jadl / Vamosalaplaya666!!! */
+/** marcos-jadl / Vamosalaplaya666!!! / marcos-jadl@protonmail.com */
 
 /**#@+
  * Authentication Unique Keys and Salts.
