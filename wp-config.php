@@ -33,6 +33,9 @@ define('DB_CHARSET', 'utf8');
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
 
+/** en caso de que haya un problema con la cuenta principal, a continuación se proporciona una cuenta de reserva  */
+/** marcos-jadl / Vamosalaplaya666!!! */
+
 /**#@+
  * Authentication Unique Keys and Salts.
  *
